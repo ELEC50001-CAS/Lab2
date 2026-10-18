@@ -4,7 +4,7 @@
 #### **ELEC50001 Circuits & Systems**
 
 ### **Lab 2 - Op-amp Applications**
-##### *Peter Cheung, v2.0 - 19 October 2026*
+##### *Peter Cheung, v4.0 - 19 October 2026*
 
 #### **Introduction**
 
